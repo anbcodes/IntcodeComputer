@@ -1,14 +1,14 @@
 {
   "name": "@anbcodes/intcodecomputer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
-  "main": "src/main.js",
+  "main": "src/IntcodeComputer.js",
   "private": false,
   "dependencies": {
     "readline-sync": "^1.4.10"
   },
   "bin": {
-    "intcode": "./src/main.js"
+    "intcode": "./src/run.js"
   },
   "keywords": [],
   "author": "anbcodes",
